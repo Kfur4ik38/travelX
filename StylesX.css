@@ -1,0 +1,87 @@
+.container {
+  height: 100vh;
+  background-color: #dbbaba;
+  background-image: url("OneX.webp");
+}
+
+.knope {
+  position: absolute;
+  right: 685px;
+  top: 360px;
+  color: rgb(250, 113, 234);
+  font-size: 30px;
+  text-decoration-line: none;
+  font-family: fantasy;
+  font-weight: bold;
+  display: flex;
+  background-color: rgb(124, 66, 210);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: blue;
+}
+
+.secondX {
+  height: 200vh;
+  background-color: bisque;
+}
+
+.travel {
+  position: absolute;
+  right: 655px;
+  top: 15px;
+  color: #ea9c9c;
+}
+
+.first {
+  position: absolute;
+  top: 100px;
+  left: 20px;
+}
+
+.photo1 {
+  width: 450px;
+  border-radius: 20px;
+}
+
+.first1 {
+  color: #a569ee;
+}
+
+.about1 {
+  display: flex;
+  margin-left: 460px;
+  position: relative;
+  bottom: 300px;
+  color: rgb(82, 226, 226);
+}
+
+.photo2 {
+  width: 450px;
+  border-radius: 20px;
+  position: relative;
+  top: 10px;
+  margin-left: 3px;
+}
+
+.second {
+  position: relative;
+  top: 540px;
+  left: 20px;
+}
+
+.second1 {
+  color: rgb(0, 62, 247);
+}
+
+.about2 {
+  display: flex;
+  margin-left: 460px;
+  position: relative;
+  bottom: 240px;
+  color: #a569ee;
+}
